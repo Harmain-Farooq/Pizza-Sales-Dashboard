@@ -1,3 +1,5 @@
+![Dashboard Overview](dashboard1.png)
+![Dashboard Details](dashboard2.png)
 # Pizza-Sales-Dashboard
 🍕 Pizza Sales Dashboard
 A dynamic Power BI dashboard designed to analyze and visualize key performance indicators (KPIs) for a pizza restaurant's sales data. This project transforms raw transactional data into actionable business insights to monitor sales performance, optimize inventory, and identify customer preferences.
@@ -41,5 +43,3 @@ Formulas & Metrics: DAX (Data Analysis Expressions) for dynamic measures
 
 ## 📁 Files in this Repository
 Pizza_Sales_Dashboard.pbix — The main Power BI dashboard file (Download and open in Power BI Desktop to interact with the report).
-![Dashboard Overview](dashboard1.png)
-![Dashboard Details](dashboard2.png)
